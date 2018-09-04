@@ -5,4 +5,8 @@
 
 创建一个NSObject的分类@interface NSObject (Runtime)：
 
-![image]()
+![image](https://github.com/PBgitHub/MyImage/raw/master/git_Image/GomuNSCoding_RuntimeImage/GomuNSCoding_RuntimeImage1.png)
+
+归档的.m中的协议方法中分别调用这两个方法：
+
+![image](https://github.com/PBgitHub/MyImage/raw/master/git_Image/GomuNSCoding_RuntimeImage/GomuNSCoding_RuntimeImage2.png)
